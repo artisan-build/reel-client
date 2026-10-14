@@ -2,7 +2,6 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "artisan-build/reel-client",
     "description": "Laravel client for customer-owned Reel session replay.",
-    "version": "0.1.0",
     "license": "MIT",
     "type": "library",
     "require": {
